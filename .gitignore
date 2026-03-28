@@ -1,0 +1,25 @@
+# Variables de entorno (secretos)
+.env
+.env.*
+
+# Entorno virtual Python
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribución / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
